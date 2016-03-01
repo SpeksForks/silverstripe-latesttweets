@@ -240,7 +240,7 @@ class tmhUtilities
    *
    * This function works on *nix systems only and requires shell_exec and stty.
    *
-   * @param  boolean $stars Wether or not to output stars for given characters
+   * @param boolean $stars Wether or not to output stars for given characters
    * @return string
    * @url http://www.dasprids.de/blog/2008/08/22/getting-a-password-hidden-from-stdin-with-php-cli
    */
